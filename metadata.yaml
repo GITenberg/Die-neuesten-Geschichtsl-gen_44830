@@ -1,0 +1,29 @@
+_repo: Die-neuesten-Geschichtsl-gen_44830
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44830-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kanner, Heinrich
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '42940'
+    url: http://www.gutenberg.org/2009/agents/42940
+    wikipedia: http://de.wikipedia.org/wiki/Heinrich_Kanner
+description: ''
+gutenberg_issued: '2014-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44830'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Diplomatic history'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Causes'
+- !lcsh 'World War, 1914-1918 -- Germany'
+title: Die neuesten Geschichtslügen
+url: http://www.gutenberg.org/ebooks/44830
